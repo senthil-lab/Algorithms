@@ -86,7 +86,12 @@
   "keyToString": {
     "Application.HelloWorld.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/M261463/OneDrive - Mayo Clinic/Algorithms/Algorithms/hello"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/M261463/OneDrive - Mayo Clinic/Algorithms/Algorithms/hello",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RunManager">
