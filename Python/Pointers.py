@@ -12,6 +12,15 @@ j = 22
 print("value of i is", i)
 print("value of j is", j)
 
+print ("address of i is", id(i))
+print ("address of j is", id(j))
+
+i += 1 
+
+print("value of i is", i)
+print("value of j is", j)
+
+print ("address of i is", id(i))
 print ("address of j is", id(j))
 
 i = { "data" : 11 }
@@ -31,3 +40,10 @@ print("value of j is", j)
 print ("address of i is", id(i))
 print ("address of j is", id(j))
 
+j = { "data" : 11 }
+
+print("value of i is", i)
+print("value of j is", j)
+
+print ("address of i is", id(i))
+print ("address of j is", id(j))

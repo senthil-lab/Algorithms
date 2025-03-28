@@ -16,3 +16,8 @@ print("Cooke Two is", cookieTwo.getColor())
 
 print("Cooke One is", cookieOne.color)
 print("Cooke Two is", cookieTwo.color)
+
+cookieOne.setColor("yellow")
+
+print("Cooke One is", cookieOne.color)
+print("Cooke Two is", cookieTwo.color)
